@@ -7,4 +7,4 @@
 <div align="center">
 
   
-<sub>[**RENTRY ☆**](https://rentry.co/phantasmcat)
+<sub>☆
